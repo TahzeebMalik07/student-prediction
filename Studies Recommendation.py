@@ -478,7 +478,7 @@ for class_name, probability in final_recommendations:
 import sklearn
 print(sklearn.__version__)
 # in pycharm env install
-# pip install scikit-learn==1.3.2
+# pip install scikit-learn==1.0.2
 
 
 # In[ ]:
